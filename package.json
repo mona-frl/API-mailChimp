@@ -1,0 +1,17 @@
+{
+  "name": "api-mailchimp",
+  "version": "1.0.0",
+  "description": "email subscriber",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mona-frl",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "bootstrap": "^5.2.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
